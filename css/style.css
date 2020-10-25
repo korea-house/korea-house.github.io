@@ -424,6 +424,7 @@ button:focus{
 }
 
 .why-text {
+	opacity:0.90;
     position: absolute;
     left: 0;
     /*bottom: -50%;*/
